@@ -1,3 +1,10 @@
+Here is the [demo](https://micro-mobile.netlify.app/)
+
+![Screenshot 2022-06-14 at 22-43-17 React App](https://user-images.githubusercontent.com/94779649/173752068-4bfebf75-263b-41b4-a0e1-e27cabab2715.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,7 +75,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-Here is the [demo](https://micro-mobile.netlify.app/)
-
-![Screenshot 2022-06-14 at 22-43-17 React App](https://user-images.githubusercontent.com/94779649/173752068-4bfebf75-263b-41b4-a0e1-e27cabab2715.png)
